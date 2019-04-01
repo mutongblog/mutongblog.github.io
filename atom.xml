@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mu`s blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-04-01T05:44:13.439Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Mu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello，遥感</title>
+    <link href="http://yoursite.com/2019/03/29/%E4%BD%A0%E5%A5%BD-%E9%81%A5%E6%84%9F/"/>
+    <id>http://yoursite.com/2019/03/29/你好-遥感/</id>
+    <published>2019-03-29T02:38:28.000Z</published>
+    <updated>2019-04-01T05:44:13.439Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="ENVI" scheme="http://yoursite.com/tags/ENVI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/03/29/hello-world/"/>
+    <id>http://yoursite.com/2019/03/29/hello-world/</id>
+    <published>2019-03-29T02:06:33.649Z</published>
+    <updated>2019-03-29T02:06:33.649Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
