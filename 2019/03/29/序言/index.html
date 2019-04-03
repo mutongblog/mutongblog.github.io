@@ -800,6 +800,12 @@
     
 
     
+      <div id="needsharebutton-float">
+        <span class="btn">
+          <i class="fa fa-share-alt" aria-hidden="true"></i>
+        </span>
+      </div>
+    
 
   </div>
 
@@ -1288,7 +1294,7 @@
     
       pbOptions = {};
       
-          pbOptions.iconStyle = "box";
+          pbOptions.iconStyle = "default";
       
           pbOptions.boxForm = "horizontal";
       
@@ -1298,6 +1304,18 @@
       
       new needShareButton('#needsharebutton-postbottom', pbOptions);
     
+    
+      flOptions = {};
+      
+          flOptions.iconStyle = "default";
+      
+          flOptions.boxForm = "vertical";
+      
+          flOptions.position = "topRight";
+      
+          flOptions.networks = "Weibo,Wechat,QQZone,Douban,Twitter,Facebook";
+      
+      new needShareButton('#needsharebutton-float', flOptions);
     
   </script>
 
